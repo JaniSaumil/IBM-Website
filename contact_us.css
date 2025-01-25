@@ -1,0 +1,30 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 80px; /* To prevent overlap with fixed navbar */
+}
+
+.bg-navy {
+    background-color: #001f3f;
+}
+
+.text-navy {
+    color: #001f3f;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.contact-us-section {
+    background-color: #f8f9fa; /* Light background for contrast */
+    padding: 50px 0;
+    border-radius: 10px;
+}
+
+.logo-img {
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
